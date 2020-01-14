@@ -61,12 +61,15 @@ Po jakims czasie mozecie zaczac sie inetresowac tematem:
       - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API i wiele innnych 
       
 - Cloud 
-   - AWS albo GCP (google)
+   - [ AWS ](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) (amazon) 
+   
+   albo 
+  - [GCP]( https://cloud.google.com/free/ ) (google)
+   - w obu przypadkach AWS / GCP - kiedy sie zapisujecie macie pierwszy rok za darmo, mozecie duzo testowac przez zabawe 
 
 # 
 
 meetups
-AWS pierwszy rok za darmo - AWS - free tier
 
 https://ohmyz.sh/
 Visual Studio 
