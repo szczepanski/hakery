@@ -1,4 +1,4 @@
-# init
+# INIT
 
 Jako wasza baze, powinninscie MOCNO przestudiowac 
 
@@ -81,7 +81,7 @@ wpisujcie kluczowe hasla typu python, cloud, AWS, devops etc i zobaczycie ze duz
 
 
 
-# Kursy:
+# kursy:
 Sporo uzywalem 
 
 - [ linuxacademy ]( https://linuxacademy.com/ ) 
@@ -130,7 +130,7 @@ znajdy agi :)
 - machine learning 
 - robotyka 
 
-# Gdzie moglbym wam wiecej pomoc 
+# z czym moglbym wam wiecej pomoc 
 
 ```
 python
@@ -141,10 +141,13 @@ Ansible
 Terraform
 cloud - AWS, OpenStack
 network
+
+mam sporo kursow na udemy (Ansible, Linux, Git, , Python 3, DevOps, Aws,GCP, Jenkins,Gitlab CI, Terraform, Docker, Kubernetes)
+dajcie cynk jesli bylibyscie zainteresowani
 ```
 
 
-# The Zen of Python
+# zen of python ...
 
 ```python 
 
