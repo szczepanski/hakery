@@ -2,23 +2,25 @@
 
 # init
 
-witacie i ... 
+witajcie i ... 
 
 wybaczcie ‘delikatny’ poslizg z informacjami :/ 
 
-Wiec, mysle ze jako baze powinninscie MOCNO przestudiowac overstackowa ankiete prawie 100 tys developerow (robia co roku nowa).
+Wiec, mysle ze jako baze powinninscie MOCNO przestudiowac overstackowa ankiete - prawie 100 tys developerow (robia co roku nowa)
+
+https://insights.stackoverflow.com/survey/2019
+
 
 Zobaczycie tam informacje na temat zarobkow, popularnosci jezykow, technologii, narzedzi, 
 ale tez  na przyklad kontekst na zwiazany z tym jakie jezyki / technologie sa lubiane przez ludzi w praktyce   - bardzo pomocne !  
 
 Jako ze uwielbiam Pythona fragment z poczatku ankiety: 
+
 “ Python, the fastest-growing major programming language (...) standing as the second most loved language (...)” 
 
-https://insights.stackoverflow.com/survey/2019
 
 Z mojej perspektywy, Python jest bardzo szybki do zrozumienia, nie potrzeba ogromnej ilosci czasu zeby zaczac czuc sie z nim swobodnie, jest to jezyk general-puropose - czyli bardzo szerokie zastosowanie. 
-Jest tez jezykiem ktorego finkcyjne czesci kodu sa indentowane 
-  
+Jest tez jezykiem ktorego funkcyjne czesci kodu sa odzielone od siebie tab(ami) - (4x spacje / whitespace)  - czyli jego struktura / syntax od poczatku wymusza bardzo czytene przejrzyste pisanie kodu
 
 meetups
 git
