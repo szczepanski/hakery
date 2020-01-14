@@ -7,13 +7,9 @@
 - [zen of python](#zen-of-python)
 - [COMMIT](#COMMIT)
 
-
-
 <br><br/>
 <br><br/>
 <br><br/>
-<br><br/>
-
 
 # INIT
 
