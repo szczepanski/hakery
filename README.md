@@ -4,8 +4,8 @@
 
 Jako wasza baze, powinninscie MOCNO przestudiowac 
 
-[  Developer Survey Results
-2019 ](https://insights.stackoverflow.com/survey/2019 ) z 2019 roku - prawie 100 tys developerow (robia co roku nowa)
+[  Stack Overflow Developer Survey Results
+2019 ](https://insights.stackoverflow.com/survey/2019 ) - prawie 100 tys developerow (robia co roku nowa)
 
 
 Zobaczycie tam informacje na temat zarobkow, trendow, popularnosci jezykow, technologii, narzedzi, 
