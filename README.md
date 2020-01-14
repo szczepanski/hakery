@@ -1,3 +1,14 @@
+
+- [INIT](#init)
+- [gdzie zaczac](#gdzie-zaczac)
+- [komuna](#komuna)
+- [kursy:](#kursy-)
+- [trendy](#trendy)
+- [z czym moglbym wam wiecej pomoc](#z-czym-moglbym-wam-wiecej-pomoc)
+- [zen of python ...](#zen-of-python-)
+
+
+
 # INIT
 
 Jako wasza baze, powinninscie MOCNO przestudiowac 
