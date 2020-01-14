@@ -20,7 +20,19 @@ Jako ze uwielbiam Pythona fragment z poczatku ankiety:
 
 
 Z mojej perspektywy, Python jest bardzo szybki do zrozumienia, nie potrzeba ogromnej ilosci czasu zeby zaczac czuc sie z nim swobodnie, jest to jezyk general-puropose - czyli bardzo szerokie zastosowanie. 
-Jest tez jezykiem ktorego funkcyjne czesci kodu sa odzielone od siebie tab(ami) - (4x spacje / whitespace)  - czyli jego struktura / syntax od poczatku wymusza bardzo czytene przejrzyste pisanie kodu
+Jest tez jezykiem ktorego funkcyjne czesci kodu sa odzielone od siebie tab(ami) - (4x spacje / whitespace)  - czyli jego struktura / syntax od poczatku wymusza bardzo czytelne przejrzyste pisanie kodu
+
+Jesli zdecydowalibyscie sie na Pythona to dobrym pomyslem jest zaczac 
+(bla)[https://www.anaconda.com/distribution/]
+
+
+# gdzie zaczac 
+
+jezyki front end typu java script, html, css sa coraz bardziej zautomatyzowane i malo platne
+
+polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowych aplikacji jak i automatyzowania back end / infrastruktury  
+
+# 
 
 meetups
 git
@@ -49,7 +61,8 @@ IAC
 Everything as Code
 Automatyzacja
 big data
-data science, 
+data science, \
+robotyka 
 
 
 
