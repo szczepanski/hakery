@@ -25,7 +25,7 @@ Anaconda uzywana jest glownie w data science i machine learnig, ale jest to dobr
 
 # gdzie zaczac 
 
-Jezyki front end typu java script, html, css sa coraz bardziej zautomatyzowane i malo platne
+Jezyki front end typu java script (js), html, css sa coraz bardziej zautomatyzowane i miel platne
 
 Polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowych aplikacji jak i automatyzowania back end / infrastruktury  
 
@@ -35,7 +35,8 @@ Na wstepie bardzo wam sie przyda wiedza o:
 
    - podstawowe komendy mozecie testowac na Mac OS w terminalu lub przez [iterm2]( https://iterm2.com/ ) (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
    - komercyjnie / w firmach jest bardzo popularna darmowa dystrybucja RedHata - Centos - dlatego polecam zabawy z ta wersja Linuxa
-   - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation) 
+   - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation)
+   - jesli znudzicie sie bialo/czarnym ekranem terminala - polecam [ https://ohmyz.sh/ ][ https://ohmyz.sh/ ] :)
 
 - bash / shell programming
 
@@ -73,8 +74,7 @@ Po jakims czasie mozecie zaczac sie inetresowac tematem:
 
 meetups
 
-https://ohmyz.sh/
-Visual Studio 
+
 
 
 
@@ -82,25 +82,50 @@ Visual Studio
 Sporo uzywalem 
 
 - [ linuxacademy ]( https://linuxacademy.com/ ) 
+   - miesiczna subskrypcja i dostep do wszystkich kursow - bardzo profesjonalne kursy Linux, Cloud, Narzedzia etc.
+   - kursy bardzo zblizone do prawdziwych firmowych 
 - [ udemy ]( https://www.udemy.com/ ) 
+   - placisz za indywidualny kurs, ogromny wybor, duzo ocen kursow - ratingow, 
+   - nie placcie wiecej niz 10-20 Euro za kurs - zawsze czekajcie na promocje przy ktorych przewaznie placicie 10 razy mniej. 
+   - jesli kurs wydaje sie drogi - ponad 20 euro - pewnie nie znizki, odczekajcie tydzien, dwa i   
 - [ codecademy ]( https://www.codecademy.com/ ) 
+   - darmowe kursy z opcja premium (HTML & CSS, Python, JavaScript, Java, SQL, Bash/Shell, Ruby, C++, R, C#, PHP, Go, Swift)
+   - bardzo dobra darmowa opcja, premium bardzo niekonieczne :) 
 
 rzuccie okiem
+
 - [ udacity ]( https://www.udacity.com/ )
 - [ cursera ]( https://www.coursera.org/ ) 
 - [ pluralsight ]( https://www.pluralsight.com/ ) 
 
+znajdy agi :) 
+
+[ girlsjs ](https://girlsjs.pl/) - js
+[ djangogirls ](https://djangogirls.org/) - python 
+
+
+
 # trendy
 
-cloud
-devops
-IAC
-Everything as Code
-Automatyzacja
-big data
-data science, \
-machine learning 
-robotyka 
+- private cloud
+   - OpenStack
+   
+- public cloud
+   - AWS, GCP, Azure
+   
+- DevOps
+   - migracje aplikacji do cloud
+   - contenarization
+   - microservices
+   - lambdas
+   - CICD pipelines
+   - automatuzacja / Everything as Code - EaC:)  
+   - Infrustructure as Code
+
+- big data
+- data science
+- machine learning 
+- robotyka 
 
 # Gdzie moglbyw wam wiecej pomoc 
 
