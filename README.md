@@ -36,7 +36,9 @@ polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowyc
 mysle ze kazdy szanujacy sie haker musi miec pojecie:
 
 - linuxie
+
 centos rasbery pi 
+
 - regex
 - git
 - 
