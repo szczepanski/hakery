@@ -5,7 +5,7 @@
 - [kursy](#kursy)
 - [trendy](#trendy)
 - [zen of python](#zen-of-python)
-- [commit](#commit)
+- [COMMIT](#COMMIT)
 
 
 
@@ -169,9 +169,12 @@ Namespaces are one honking great idea -- let's do more of those!
 ```
 
 
-# commit
 
-### z czym moglbym wam wiecej pomoc 
+# COMMIT
+
+
+#### z czym moglbym wam wiecej pomoc 
+
 
 ```
 python
