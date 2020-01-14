@@ -36,7 +36,7 @@ Na wstepie bardzo wam sie przyda:
    - podstawowe komendy mozecie testowac na Mac OS w terminalu lub przez [iterm2]( https://iterm2.com/ ) (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
    - komercyjnie / w firmach jest bardzo popularna darmowa dystrybucja RedHata - Centos - dlatego polecam zabawy z ta wersja Linuxa
    - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation)
-   - jesli juz znudzicie sie bialo/czarnym ekranem terminala - polecam [ oh my z shell !!! ](https://ohmyz.sh/ ) :)
+   - jesli juz znudzicie sie bialo/czarnym ekranem terminala - czas na [ oh my z shell !!! ](https://ohmyz.sh/ ) :)
 
 - bash / shell programming
 
@@ -103,8 +103,8 @@ rzuccie okiem
 
 znajdy agi :) 
 
-[ girlsjs ](https://girlsjs.pl/) - js
-[ djangogirls ](https://djangogirls.org/) - python 
+- [ girlsjs ](https://girlsjs.pl/) - js
+- [ djangogirls ](https://djangogirls.org/) - python 
 
 
 
@@ -117,7 +117,7 @@ znajdy agi :)
    - AWS, GCP, Azure
    
 - DevOps
-   - migracje aplikacji do cloud
+   - ogromne na calym swiecie migracje aplikacji do cloud
    - contenarization
    - microservices
    - lambdas
@@ -132,7 +132,15 @@ znajdy agi :)
 
 # Gdzie moglbyw wam wiecej pomoc 
 
-
+```
+python
+js
+linux
+network
+Infrastructure as Code
+Ansible
+Terraform
+```
 
 
 
