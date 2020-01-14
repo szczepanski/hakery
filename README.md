@@ -4,8 +4,9 @@
 - [komuna](#komuna)
 - [kursy](#kursy)
 - [trendy](#trendy)
-- [z czym moglbym wam wiecej pomoc](#z-czym-moglbym-wam-wiecej-pomoc)
 - [zen of python](#zen-of-python)
+- [commit](#commit)
+
 
 
 
@@ -55,7 +56,7 @@ Na wstepie bardzo wam sie przyda:
 
 - jeden jezyk typu genreal purpose (Python, Go, C, Ruby etc...)
    - jako edytor / narzedzie do pisania zdecydowanie polecam [ VScode ]( https://code.visualstudio.com/ )
-   - piszcie [ ludzio przyjaznie ](https://pythonforbiologists.com/3-steps-to-readable-code) i [ zwiezle ]( https://www.codementor.io/@joshuaaroke/dry-code-vs-wet-code-89xjwv11w )
+   - piszcie [ ludzio przyjaznie ](https://pythonforbiologists.com/3-steps-to-readable-code) i [ zwiezle ]( https://www.codementor.io/@joshuaaroke/dry-code-vs-wet-code-89xjwv11w ) a wasz kod bedzie jednoczesnie dobra dokumentacja
  
 - regex
 
@@ -101,7 +102,7 @@ Sporo uzywalem
 - [ udemy ]( https://www.udemy.com/ ) 
    - placisz za indywidualny kurs, ogromny wybor, duzo ocen kursow - ratingow, 
    - nie placcie wiecej niz 10-20 Euro za kurs - zawsze czekajcie na promocje przy ktorych przewaznie placicie 10 razy mniej. 
-   - jesli kurs wydaje sie drogi - ponad 20 euro - pewnie nie znizki, odczekajcie tydzien, dwa i   
+   - jesli kurs wydaje sie drogi - ponad 20 euro - pewnie poza okresem romocyjnym, odczekajcie tydzien, dwa   
 - [ codecademy ]( https://www.codecademy.com/ ) 
    - darmowe kursy z opcja premium (HTML & CSS, Python, JavaScript, Java, SQL, Bash/Shell, Ruby, C++, R, C#, PHP, Go, Swift)
    - bardzo dobra darmowa opcja, premium bardzo niekonieczne :) 
@@ -141,22 +142,6 @@ znajdy agi :)
 - machine learning 
 - robotyka 
 
-# z czym moglbym wam wiecej pomoc 
-
-```
-python
-js
-linux
-Infrastructure as Code
-Ansible
-Terraform
-cloud - AWS, OpenStack
-network
-
-mam sporo kursow na udemy (Ansible, Linux, Git, , Python 3, DevOps, Aws,GCP, Jenkins,Gitlab CI, Terraform, Docker, Kubernetes)
-dajcie cynk jesli bylibyscie zainteresowani
-```
-
 
 # zen of python
 
@@ -181,6 +166,25 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+```
+
+
+# commit
+
+### z czym moglbym wam wiecej pomoc 
+
+```
+python
+js
+linux
+Infrastructure as Code
+Ansible
+Terraform
+cloud - AWS, OpenStack
+network
+
+mam sporo kursow na udemy (Ansible, Linux, Git, , Python 3, DevOps, Aws,GCP, Jenkins,Gitlab CI, Terraform, Docker, Kubernetes)
+dajcie cynk jesli bylibyscie zainteresowani
 ```
 
 
