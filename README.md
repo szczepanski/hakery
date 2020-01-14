@@ -23,8 +23,7 @@ Z mojej perspektywy, Python jest bardzo szybki do zrozumienia, nie potrzeba ogro
 Jest tez jezykiem ktorego funkcyjne czesci kodu sa odzielone od siebie tab(ami) - (4x spacje / whitespace)  - czyli jego struktura / syntax od poczatku wymusza bardzo czytelne przejrzyste pisanie kodu
 
 Jesli zdecydowalibyscie sie na Pythona to dobrym pomyslem jest zaczac 
-(bla)[https://www.anaconda.com/distribution/]
-
+[ bla ]( https://www.anaconda.com/distribution/ )
 
 # gdzie zaczac 
 
