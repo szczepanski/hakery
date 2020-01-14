@@ -29,14 +29,14 @@ Jezyki front end typu java script (js), html, css sa coraz bardziej zautomatyzow
 
 Polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowych aplikacji jak i automatyzowania back end / infrastruktury  
 
-Na wstepie bardzo wam sie przyda wiedza o:
+Na wstepie bardzo wam sie przyda:
 
-- linuxie
+- linux
 
    - podstawowe komendy mozecie testowac na Mac OS w terminalu lub przez [iterm2]( https://iterm2.com/ ) (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
    - komercyjnie / w firmach jest bardzo popularna darmowa dystrybucja RedHata - Centos - dlatego polecam zabawy z ta wersja Linuxa
    - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation)
-   - jesli znudzicie sie bialo/czarnym ekranem terminala - polecam [ oh my z shell!!! ](https://ohmyz.sh/ ) :)
+   - jesli juz znudzicie sie bialo/czarnym ekranem terminala - polecam [ oh my z shell !!! ](https://ohmyz.sh/ ) :)
 
 - bash / shell programming
 
@@ -70,9 +70,11 @@ Po jakims czasie mozecie zaczac sie inetresowac tematem:
    
 - w obu przypadkach AWS / GCP - kiedy sie zapisujecie macie pierwszy rok za darmo, mozecie duzo testowac przez zabawe 
 
-# 
+# komuna
 
-meetups
+[ meetup ](https://www.meetup.com/)
+
+wpisujcie kluczowe hasl typu python, cloud AWs, devops etc i zobaczycie ze duzo sie moze dziac tam gdzie jestescie 
 
 
 
