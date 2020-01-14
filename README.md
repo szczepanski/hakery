@@ -34,7 +34,7 @@ Na wstepie bardzo wam sie przyda wiedza o:
 
 - linuxie
 
-   - podstawowe komendy mozecie testowac na Mac OS w terminalu (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
+   - podstawowe komendy mozecie testowac na Mac OS w terminalu lub przez [iterm2]( https://iterm2.com/ ) (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
    - komercyjnie / w firmach jest bardzo popularna darmowa dystrybucja RedHata - Centos - dlatego polecam zabawy z ta wersja Linuxa
    - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation) 
 
@@ -43,6 +43,7 @@ Na wstepie bardzo wam sie przyda wiedza o:
    - minimalna wiedza rowniez czesto przydatna
 
 - jeden jezyk typu genreal purpose (Python, Go, C, Ruby etc...)
+   - jako edytor / narzedzie do pisania zdecydowanie polecam [ VScode ]( https://code.visualstudio.com/ )
 
 - regex
 
@@ -76,18 +77,19 @@ meetups
 https://ohmyz.sh/
 Visual Studio 
 
-iterm
 
-Kursy:
 
-udacity 
-cursera
-udemy
-codecademy
-linuxacademy
-pluralsight
+# Kursy:
 
-trendy
+- [ udacity ]( https://www.udacity.com/ )
+- [ cursera ]( https://www.coursera.org/ ) 
+- [ udemy ]( https://www.udemy.com/ ) 
+- [ codecademy ]( https://www.codecademy.com/ ) 
+- [ linuxacademy ]( https://linuxacademy.com/ ) 
+- [ pluralsight ]( https://www.pluralsight.com/ ) 
+
+# trendy
+
 cloud
 devops
 IAC
@@ -97,6 +99,8 @@ big data
 data science, \
 machine learning 
 robotyka 
+
+# Gdzie moglbyw wam wiecej pomoc 
 
 
 
