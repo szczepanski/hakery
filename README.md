@@ -3,10 +3,10 @@
 # init
 Jako wasza baze, powinninscie MOCNO przestudiowac overstackowa 
 
-[ ankiete ](https://insights.stackoverflow.com/survey/2019 ) - prawie 100 tys developerow (robia co roku nowa)
+[ ankiete ](https://insights.stackoverflow.com/survey/2019 ) z 2019 roku - prawie 100 tys developerow (robia co roku nowa)
 
 
-Zobaczycie tam informacje na temat zarobkow, popularnosci jezykow, technologii, narzedzi, 
+Zobaczycie tam informacje na temat zarobkow, trendow, popularnosci jezykow, technologii, narzedzi, 
 ale tez  na przyklad kontekst na zwiazany z tym jakie jezyki / technologie sa lubiane przez ludzi w praktyce   - bardzo pomocne !  
 
 Jako ze uwielbiam Pythona fragment z poczatku ankiety: 
@@ -14,34 +14,45 @@ Jako ze uwielbiam Pythona fragment z poczatku ankiety:
 “ Python, the fastest-growing major programming language (...) standing as the second most loved language (...)” 
 
 
-Z mojej perspektywy, Python jest bardzo szybki do zrozumienia, nie potrzeba ogromnej ilosci czasu zeby zaczac czuc sie z nim swobodnie, jest to jezyk general-puropose - czyli bardzo szerokie zastosowanie. 
+Z mojej perspektywy, Python jest bardzo szybki do zrozumienia, nie potrzeba ogromnej ilosci czasu zeby zaczac czuc sie z nim swobodnie, jest to jezyk general-puropose - czyli o bardzo szerokim zastosowaniu. 
 
 Jest tez jezykiem ktorego funkcyjne czesci kodu sa odzielone od siebie tab(ami) - (4x spacje / whitespace)  - czyli jego struktura / syntax od poczatku wymusza bardzo czytelne przejrzyste pisanie kodu
 
 Jesli zdecydowalibyscie sie na Pythona to dobrym pomyslem jest zaczac od [ Anacondy]( https://www.anaconda.com/distribution/ ) - dystrybucji pythona 3.7
 
-Anaconda uzywana jest glownie w data science i machine learnig, ale jest to dobry poczatek dla kazdego poniewaz macie od razu zainstalowane wiele packages / bibliotek pythona ktore sa potrzebne kazdemy kto z nim pracuje, bez pozniejszej potrzeby manualnego instalowanie pojedynczych pakietow
+Anaconda uzywana jest glownie w data science i machine learnig, ale jest to dobry poczatek dla kazdego poniewaz macie od razu zainstalowane wiele packages / bibliotek pythona ktore sa potrzebne kazdemy kto z nim pracuje, bez pozniejszej potrzeby manualnego instalowanie pojedynczych pakietow - takze ulatwiony start 
 
 
 # gdzie zaczac 
 
-jezyki front end typu java script, html, css sa coraz bardziej zautomatyzowane i malo platne
+Jezyki front end typu java script, html, css sa coraz bardziej zautomatyzowane i malo platne
 
-polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowych aplikacji jak i automatyzowania back end / infrastruktury  
+Polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowych aplikacji jak i automatyzowania back end / infrastruktury  
 
-mysle ze kazdy szanujacy sie haker musi miec pojecie:
+Na wstepie bardzo wam sie przyda wiedza o:
 
 - linuxie
 
-centos rasbery pi 
+   - podstawowe komendy mozecie testowac na Mac OS w terminalu (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
+   - komercyjnie / w firmach jest bardzo popularna darmowa dystrybucja RedHata - Centos - dlatego polecam zabawy z ta wersja Linuxa
+   - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation) 
+
+- bash / shell programming
+
+   - minimalna wiedza rowniez czesto przydatna
 
 - regex
 
-- git
+   - podsatwy zawsze beda pomocne  
+
+- git 
+
+
+Po jakims czasie mozecie zaczac sie inetresowac tematem Devops
 
 - narzedziach i techologie stosowane w DevOps - toolset
 
-   - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API 
+   - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API i wiele innnych 
 
 - automatyzacja - Everything as Code - EaC :) 
 
