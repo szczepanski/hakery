@@ -58,14 +58,16 @@ Po jakims czasie mozecie zaczac sie inetresowac tematem:
 - Devops
    - narzedziach i techologie stosowane w DevOps - toolset
 
-      - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API i wiele innnych 
+      - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API, narzedzia Hashicorp, Ansible i wiele innych
       
 - Cloud 
    - [ AWS ](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc) (amazon) 
    
    albo 
+   
   - [GCP]( https://cloud.google.com/free/ ) (google)
-   - w obu przypadkach AWS / GCP - kiedy sie zapisujecie macie pierwszy rok za darmo, mozecie duzo testowac przez zabawe 
+   
+- w obu przypadkach AWS / GCP - kiedy sie zapisujecie macie pierwszy rok za darmo, mozecie duzo testowac przez zabawe 
 
 # 
 
