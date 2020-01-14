@@ -2,10 +2,10 @@
 - [INIT](#init)
 - [gdzie zaczac](#gdzie-zaczac)
 - [komuna](#komuna)
-- [kursy:](#kursy-)
+- [kursy](#kursy)
 - [trendy](#trendy)
 - [z czym moglbym wam wiecej pomoc](#z-czym-moglbym-wam-wiecej-pomoc)
-- [zen of python ...](#zen-of-python-)
+- [zen of python](#zen-of-python)
 
 
 
@@ -92,7 +92,7 @@ wpisujcie kluczowe hasla typu python, cloud, AWS, devops etc i zobaczycie ze duz
 
 
 
-# kursy:
+# kursy
 Sporo uzywalem 
 
 - [ linuxacademy ]( https://linuxacademy.com/ ) 
