@@ -2,9 +2,10 @@
 
 # init
 
-Jako wasza baze, powinninscie MOCNO przestudiowac overstackowa 
+Jako wasza baze, powinninscie MOCNO przestudiowac 
 
-[ ankiete ](https://insights.stackoverflow.com/survey/2019 ) z 2019 roku - prawie 100 tys developerow (robia co roku nowa)
+[  Developer Survey Results
+2019 ](https://insights.stackoverflow.com/survey/2019 ) z 2019 roku - prawie 100 tys developerow (robia co roku nowa)
 
 
 Zobaczycie tam informacje na temat zarobkow, trendow, popularnosci jezykow, technologii, narzedzi, 
