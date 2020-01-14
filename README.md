@@ -3,11 +3,13 @@
 # init
 
 witacie i ... 
+
 wybaczcie ‘delikatny’ poslizg z informacjami :/ 
 
 Wiec, mysle ze jako baze powinninscie MOCNO przestudiowac overstackowa ankiete prawie 100 tys developerow (robia co roku nowa).
 
-Zobaczycie tam informacje na temat zarobkow, popularnosci jezykow, technologii, narzedzi, ale tez  na przyklad kontekst na zwiazany z tym jakie jezyki / technologie sa lubiane przez ludzi w praktyce   - bardzo pomocne !  
+Zobaczycie tam informacje na temat zarobkow, popularnosci jezykow, technologii, narzedzi, 
+ale tez  na przyklad kontekst na zwiazany z tym jakie jezyki / technologie sa lubiane przez ludzi w praktyce   - bardzo pomocne !  
 
 Jako ze uwielbiam Pythona fragment z poczatku ankiety: 
 “ Python, the fastest-growing major programming language (...) standing as the second most loved language (...)” 
