@@ -36,7 +36,7 @@ Na wstepie bardzo wam sie przyda wiedza o:
    - podstawowe komendy mozecie testowac na Mac OS w terminalu lub przez [iterm2]( https://iterm2.com/ ) (np. ls, mkdir, touch, cp, mv, cat, grep, vi,  etc...)
    - komercyjnie / w firmach jest bardzo popularna darmowa dystrybucja RedHata - Centos - dlatego polecam zabawy z ta wersja Linuxa
    - ciekawa i tania opcja moze byc zainstalowanie Centos na Raspbery Pi (headless installation)
-   - jesli znudzicie sie bialo/czarnym ekranem terminala - polecam [ https://ohmyz.sh/ ][ https://ohmyz.sh/ ] :)
+   - jesli znudzicie sie bialo/czarnym ekranem terminala - polecam [ oh my z shell!!! ](https://ohmyz.sh/ ) :)
 
 - bash / shell programming
 
