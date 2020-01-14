@@ -40,9 +40,14 @@ mysle ze kazdy szanujacy sie haker musi miec pojecie:
 centos rasbery pi 
 
 - regex
-- git
-- 
 
+- git
+
+- narzedziach i techologie stosowane w DevOps - toolset
+
+   - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API 
+
+- automatyzacja - Everything as Code - EaC :) 
 
 
 # 
