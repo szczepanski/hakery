@@ -6,9 +6,7 @@ witajcie i ...
 
 wybaczcie ‘delikatny’ poslizg z informacjami :/ 
 
-Wiec, mysle ze jako baze powinninscie MOCNO przestudiowac overstackowa ankiete - prawie 100 tys developerow (robia co roku nowa)
-
-https://insights.stackoverflow.com/survey/2019
+Wiec, mysle ze jako baze powinninscie MOCNO przestudiowac overstackowa [ ankiete ](https://insights.stackoverflow.com/survey/2019 ) - prawie 100 tys developerow (robia co roku nowa)
 
 
 Zobaczycie tam informacje na temat zarobkow, popularnosci jezykow, technologii, narzedzi, 
