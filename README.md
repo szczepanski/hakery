@@ -1,5 +1,3 @@
-
-
 # init
 
 Jako wasza baze, powinninscie MOCNO przestudiowac 
@@ -81,12 +79,15 @@ Visual Studio
 
 
 # Kursy:
+Sporo uzywalem 
 
-- [ udacity ]( https://www.udacity.com/ )
-- [ cursera ]( https://www.coursera.org/ ) 
+- [ linuxacademy ]( https://linuxacademy.com/ ) 
 - [ udemy ]( https://www.udemy.com/ ) 
 - [ codecademy ]( https://www.codecademy.com/ ) 
-- [ linuxacademy ]( https://linuxacademy.com/ ) 
+
+rzuccie okiem
+- [ udacity ]( https://www.udacity.com/ )
+- [ cursera ]( https://www.coursera.org/ ) 
 - [ pluralsight ]( https://www.pluralsight.com/ ) 
 
 # trendy
