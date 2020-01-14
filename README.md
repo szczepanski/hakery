@@ -1,6 +1,7 @@
 
 
 # init
+
 Jako wasza baze, powinninscie MOCNO przestudiowac overstackowa 
 
 [ ankiete ](https://insights.stackoverflow.com/survey/2019 ) z 2019 roku - prawie 100 tys developerow (robia co roku nowa)
@@ -41,28 +42,30 @@ Na wstepie bardzo wam sie przyda wiedza o:
 
    - minimalna wiedza rowniez czesto przydatna
 
+- jeden jezyk typu genreal purpose (Python, Go, C, Ruby etc...)
+
 - regex
 
    - podsatwy zawsze beda pomocne  
 
 - git 
 
-
-Po jakims czasie mozecie zaczac sie inetresowac tematem Devops
-
-- narzedziach i techologie stosowane w DevOps - toolset
-
-   - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API i wiele innnych 
-
 - automatyzacja - Everything as Code - EaC :) 
 
+
+
+Po jakims czasie mozecie zaczac sie inetresowac tematem:
+- Devops
+   - narzedziach i techologie stosowane w DevOps - toolset
+
+      - docker, kubernetes, CICD - continuous integration continuous deployment, jenkins, gitlab CI, microservices,API i wiele innnych 
+      
+- Cloud 
+   - AWS albo GCP (google)
 
 # 
 
 meetups
-git
-linux - centos maybe on raspberry pi
-regex 
 AWS pierwszy rok za darmo - AWS - free tier
 
 https://ohmyz.sh/
