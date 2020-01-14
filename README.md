@@ -33,6 +33,16 @@ jezyki front end typu java script, html, css sa coraz bardziej zautomatyzowane i
 
 polecam jezyki general purpose, ktore moga byc uzyte do pisania zarowno webbowych aplikacji jak i automatyzowania back end / infrastruktury  
 
+mysle ze kazdy szanujacy sie haker musi miec pojecie:
+
+- linuxie
+centos rasbery pi 
+- regex
+- git
+- 
+
+
+
 # 
 
 meetups
@@ -63,6 +73,7 @@ Everything as Code
 Automatyzacja
 big data
 data science, \
+machine learning 
 robotyka 
 
 
@@ -79,17 +90,6 @@ robotyka
 
 
 
-AWS certified Solution Architect
-solid background in Computer Networks
-passionate about automation of backend architectures through the use of:
-Infrastructure as Code - IAC
-Terraform and other Hashicorp tools
-ANSIBLE
-Python and Bash scripts
-For any details related to my expertise and previous experience please check my LinkedIn profile:
-https://www.linkedin.com/in/szczepanskipiotr
-
-enthusiasm of DevOps  related toolset
 
 
 
