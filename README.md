@@ -22,7 +22,7 @@ Jako ze uwielbiam Pythona fragment z poczatku ankiety:
 Z mojej perspektywy, Python jest bardzo szybki do zrozumienia, nie potrzeba ogromnej ilosci czasu zeby zaczac czuc sie z nim swobodnie, jest to jezyk general-puropose - czyli bardzo szerokie zastosowanie. 
 Jest tez jezykiem ktorego funkcyjne czesci kodu sa odzielone od siebie tab(ami) - (4x spacje / whitespace)  - czyli jego struktura / syntax od poczatku wymusza bardzo czytelne przejrzyste pisanie kodu
 
-Jesli zdecydowalibyscie sie na Pythona to dobrym pomyslem jest zaczac [ Anacondy] ( https://www.anaconda.com/distribution/ ) - dystrybucji pythona 3.7
+Jesli zdecydowalibyscie sie na Pythona to dobrym pomyslem jest zaczac [ Anacondy]( https://www.anaconda.com/distribution/ ) - dystrybucji pythona 3.7
 
 anaconda uzywana jest glownie w data science i machine learnig, ale jest to dobry poczatek dla kazdego poniewaz macie od razu zainstalowane wiele packages / bibliotek pythona ktore sa potrzebne kazdemy kto z nim pracuje, bez pozniejszej potrzeby manualnego instalowanie pojedynczych pakietow
 
