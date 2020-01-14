@@ -75,7 +75,7 @@ Po jakims czasie mozecie zaczac sie inetresowac tematem:
 
 [ meetup ](https://www.meetup.com/)
 
-wpisujcie kluczowe hasl typu python, cloud AWs, devops etc i zobaczycie ze duzo sie moze dziac tam gdzie jestescie 
+wpisujcie kluczowe hasla typu python, cloud, AWS, devops etc i zobaczycie ze duzo sie moze dziac tam gdzie jestescie 
 
 
 
@@ -118,34 +118,35 @@ znajdy agi :)
    
 - DevOps
    - ogromne na calym swiecie migracje aplikacji do cloud
-   - contenarization
+   - containerization - docke, kubernetes, packer
    - microservices
    - lambdas
-   - CICD pipelines
+   - CICD pipelines - GitLab CI i Jenkins
    - automatuzacja / Everything as Code - EaC:)  
-   - Infrustructure as Code
+   - Infrustructure as Code - Ansible, Terraform
 
 - big data
 - data science
 - machine learning 
 - robotyka 
 
-# Gdzie moglbyw wam wiecej pomoc 
+# Gdzie moglbym wam wiecej pomoc 
 
 ```
 python
 js
 linux
-network
 Infrastructure as Code
 Ansible
 Terraform
+cloud - AWS, OpenStack
+network
 ```
 
 
+# The Zen of Python
 
 ```python 
-The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
 Explicit is better than implicit.
