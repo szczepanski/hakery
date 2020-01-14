@@ -44,7 +44,7 @@ Na wstepie bardzo wam sie przyda:
 
 - jeden jezyk typu genreal purpose (Python, Go, C, Ruby etc...)
    - jako edytor / narzedzie do pisania zdecydowanie polecam [ VScode ]( https://code.visualstudio.com/ )
-   - piszcie [ ludzio przyjaznie ](https://pythonforbiologists.com/3-steps-to-readable-code)
+   - piszcie [ ludzio przyjaznie ](https://pythonforbiologists.com/3-steps-to-readable-code) i [ zwiezle ]( https://www.codementor.io/@joshuaaroke/dry-code-vs-wet-code-89xjwv11w )
  
 - regex
 
