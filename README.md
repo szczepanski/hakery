@@ -158,7 +158,7 @@ dajcie cynk jesli bylibyscie zainteresowani
 ```
 
 
-# zen of python ...
+# zen of python
 
 ```python 
 
