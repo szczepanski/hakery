@@ -177,7 +177,7 @@ Namespaces are one honking great idea -- let's do more of those!
 #### z czym moglbym wam wiecej pomoc 
 
 
-```
+```python
 python
 js
 linux
